@@ -741,6 +741,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     outline: 0 !important;
     border:0;
     color: #fff;
+    background-color: #b636ff;
     border-radius: 0px;
     font-size:14px;
     -webkit-transition: .5s; 
@@ -751,7 +752,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .single-contact-btn:hover{
-    background: #9f00ff;
+    /* background: #9f00ff; */
     border: 1px solid #9f00ff;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
